@@ -1,7 +1,7 @@
 # Nigeria-Agricultural-Exports
 ## Project Overview
 
-Nigeria Agricultural Exports (2021-2023)play a significant role in the country's economy contributiong to foreign exchange earnings and providing livelihood for people. This analysis aimes to point out sgnificant contributions from agricultural products to the economy. For this project,I harnessed the power of data modellin and visualization to create interactive tableau dashboard. Click here to view dashboard. This  nalysis willtransform data into actionable insights. Data Source
+Nigeria Agricultural Exports (2021-2023)play a significant role in the country's economy contributiong to foreign exchange earnings and providing livelihood for people. This analysis aimes to point out sgnificant contributions from agricultural products to the economy. For this project,I harnessed the power of data modellin and visualization to create interactive tableau dashboard. [Click here](https://public.tableau.com/views/Agriculturalexporttableau/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) to view dashboard. This  nalysis willtransform data into actionable insights. Data Source
 The dataset used for this project was shared by an analyst on X shared by an analyst. The dataset provides a comprehensive view of sales performance, cost analysis and geographycal distribution of Nigeria's agricultural exports. Clich here to view interactive dashboard.
 
 ## Data Source
