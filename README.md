@@ -69,7 +69,7 @@ Products like cocoa has higher COGS due to processing time and transportation co
 
 The Lagos port has the highest volume of exports and this is between 2021 and 2023.
 
-#### 2. Common transportation modes foe export
+#### 2. Common transportation modes for export
 
  From the analysis, sea is the only mode of transportation of all export products.
  
