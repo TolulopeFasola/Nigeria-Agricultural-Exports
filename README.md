@@ -53,7 +53,7 @@ The correlation indicated that the higher units of products purchsed, the higher
 
 QTR 4, Octoer, 2021 happens to be the time of the year with the highest sales. 
 
-#### 2. Relationship between date of porchase nd profit margine
+#### 2. Relationship between date of purchase and profit margin
 
 The relationship shows that starting from 2020 to 2023, there was increase in profit margin in 2023.
 
