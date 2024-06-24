@@ -1,12 +1,14 @@
 # Nigeria-Agricultural-Exports
 ## Project Overview
 
-Nigeria Agricultural Exports (2021-2023)play a significant role in the country's economy contributing to foreign exchange earnings and providing livelihood for people. This analysis aims to point out significant contributions from agricultural products to the economy. For this project,I harnessed the power of data modelling and visualization to create interactive tableau dashboard. [Click here](https://public.tableau.com/views/Agriculturalexporttableau/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) to view dashboard. This  nalysis willtransform data into actionable insights. Data Source
-The dataset used for this project was shared by an analyst on X shared by an analyst. The dataset provides a comprehensive view of sales performance, cost analysis and geographical distribution of Nigeria's agricultural exports.
+Nigeria Agricultural Exports (2021-2023) play a significant role in the country's economy contributing to foreign exchange earnings and providing livelihood for people. This analysis aims to point out significant contributions from agricultural products to the economy. For this project, I harnessed the power of data modelling and visualization to create interactive tableau dashboard. [Click here](https://public.tableau.com/views/Agriculturalexporttableau/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) to view dashboard. This  nalysis willtransform data into actionable insights. 
+## Data Source
+
+The dataset used for this project was shared by an analyst on X. The dataset provides a comprehensive view of sales performance, cost analysis and geographical distribution of Nigeria's agricultural exports.
 
 ## Data Source
 
-The dataset used for this analysis" nigeria_agricultural_ex-ports.csv"is csv file. The file contains information about export products, countries, company and other information on Nigeria agricultural export.
+The dataset used for this analysis "nigeria_agricultural_exports.csv"is csv file. The file contains information about export products, countries, company and other information on Nigeria agricultural export.
 
 ## Tools & Skills
 
@@ -35,7 +37,7 @@ The dataset reveals that cocoa, sesame, rubber, cashew are among the top selling
 
 #### 2. Company with the highest sales revenue
 
-The dataset shows that Nigeria Agro Export Company has the highest  product sales follow by Goldern Farms LTD and other companies as seen in the chart.
+The dataset shows that Nigeria Agro Export Company has the highest product sales follow by Goldern Farms LTD and other companies as seen in the chart.
 
 #### 3. Sales variation across different countries
 
